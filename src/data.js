@@ -19,7 +19,7 @@ export const links = [
         name: "Plans",
         path: '/plans'
     },
-    {
+    { 
         name: "Trainers",
         path: '/trainers'
     },
@@ -65,9 +65,6 @@ export const programs = [
         path: "/programs/444"
     }
 ]
-
-
-
 
 
 
